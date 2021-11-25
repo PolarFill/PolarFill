@@ -1,4 +1,4 @@
-Just a brazilian guy who likes to code
+Just a brazilian guy who likes to code\n
 
 Languages I know:
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="drawing" width="30"/> Python
