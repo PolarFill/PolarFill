@@ -13,4 +13,4 @@ I can also write:
 <img src="" alt="drawing" width="20"/> CSS 
 
 My main projects are:
-- [My NixOS config!](https://github.com/PolarFill/flaked-dots) My favorite linux distro which i also daily-drive
+- [My NixOS config!](https://github.com/PolarFill/flaked-dots) My persona config for my favorite linux distro which i also daily-drive
