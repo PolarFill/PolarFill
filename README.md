@@ -6,7 +6,7 @@ Just a brazilian guy who likes to code.
 
 Languages i code on:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="drawing" width="20"/> Python
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="drawing" width="20"/> Python
 
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/rust.svg" alt="drawing" width="20"> Rust
 
